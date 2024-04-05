@@ -1,0 +1,57 @@
+
+{ 
+  "identifier": "205", 
+  "contact_name": "MILLA TIRES CO. LTDA (CRISTIAN RUBIO)", 
+  "contact_address": "AV. BALMACEDA Nº3502,LA SERENA,LA SERENA", 
+  "contact_phone": "56224335674", 
+  "contact_id": "76132820-4", 
+  "place": "01",  
+  "contact_email": "milla@gmail.com", 
+  "max_delivery_time": "3/28/2024 12:00:00 AM 20:00", 
+  "min_delivery_time": "3/28/2024 12:00:00 AM 12:29:00", 
+  "items": [ 
+    { 
+       
+    } 
+  ], 
+  "tags": [ 
+    { 
+      "name": "CONDICION DE PAGOS", 
+      "value": "032 CtaCte 30 días" 
+    }, 
+    { 
+      "name": "PLAZO DE PAGO", 
+      "value": "074 CH 30/60/90/120/150 DIAS" 
+    }, 
+    { 
+      "name": "VENDEDOR", 
+      "value": "Lenin Febres" 
+    }, 
+    { 
+      "name": "RUTA SAP", 
+      "value": "41" 
+    }, 
+    { 
+      "name": "AYUDANTE 1", 
+      "value": "ayuda 1" 
+    }, 
+    { 
+      "name": "AYUDANTE 2", 
+      "value": "goma 2" 
+    }, 
+    { 
+      "name": "MONTO FACTURA", 
+      "value": "140718" 
+    }, 
+    { 
+      "name": "EMPRESA TRANSPORTE", 
+      "value": "01 RETIRO CLIENTE" 
+    } 
+  ], 
+  "groups": [ 
+{ 
+      "name": "RETIRO EN TIENDA", 
+      "value": "COLLECT" 
+    } 
+  ] 
+} 
