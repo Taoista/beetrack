@@ -1,57 +1,60 @@
-
-{ 
-  "identifier": "205", 
-  "contact_name": "MILLA TIRES CO. LTDA (CRISTIAN RUBIO)", 
-  "contact_address": "AV. BALMACEDA Nº3502,LA SERENA,LA SERENA", 
-  "contact_phone": "56224335674", 
-  "contact_id": "76132820-4", 
-  "place": "01",  
-  "contact_email": "milla@gmail.com", 
-  "max_delivery_time": "3/28/2024 12:00:00 AM 20:00", 
-  "min_delivery_time": "3/28/2024 12:00:00 AM 12:29:00", 
-  "items": [ 
-    { 
-       
-    } 
-  ], 
-  "tags": [ 
-    { 
-      "name": "CONDICION DE PAGOS", 
-      "value": "032 CtaCte 30 días" 
-    }, 
-    { 
-      "name": "PLAZO DE PAGO", 
-      "value": "074 CH 30/60/90/120/150 DIAS" 
-    }, 
-    { 
-      "name": "VENDEDOR", 
-      "value": "Lenin Febres" 
-    }, 
-    { 
-      "name": "RUTA SAP", 
-      "value": "41" 
-    }, 
-    { 
-      "name": "AYUDANTE 1", 
-      "value": "ayuda 1" 
-    }, 
-    { 
-      "name": "AYUDANTE 2", 
-      "value": "goma 2" 
-    }, 
-    { 
-      "name": "MONTO FACTURA", 
-      "value": "140718" 
-    }, 
-    { 
-      "name": "EMPRESA TRANSPORTE", 
-      "value": "01 RETIRO CLIENTE" 
-    } 
-  ], 
-  "groups": [ 
-{ 
-      "name": "RETIRO EN TIENDA", 
-      "value": "COLLECT" 
-    } 
-  ] 
-} 
+{
+  "identifier":"301",
+  "contact_name":"COMERCIALIZADORA TU REPUESTO SPA (PRUEBA VYV QUIEN COMPRA)",
+  "contact_address":"CARRETERA GENERAL SAN MARTIN,PROVIDENCIA,SANTIAGO",
+  "contact_phone":"5349833",
+  "contact_id":"18750368-K",
+   "Place" :"01",
+  "contact_email":"demo1@gmail.cl",
+  "max_delivery_time":"2024-12-31 20:00",
+  "min_delivery_time":"2024-12-29 09:00",
+  "items":[
+     {
+        
+     }
+  ],
+  "tags":[
+     {
+        "name":"CONDICION DE PAGO",
+        "value":"032 CtaCte 30 dias"
+     },
+     {
+        "name":"PLAZO DE PAGO",
+        "value":"CH 30/60/90/120/150 DIAS"
+     },
+     {
+        "name":"VENDEDOR",
+        "value":"Juanita Salinas"
+     },
+     {
+        "name":"RUTA SAP",
+        "value":"8"
+     },
+     {
+        "name":"AYUDANTE 1",
+        "value":"don ernesto"
+     },
+     {
+        "name":"AYUDANTE 2",
+        "value":"don cristian"
+     },
+     {
+        "name":"MONTO FACTURA",
+        "value":"328633"
+     },
+     {
+        "name":"RETIRA EN",
+        "value":"SANTA MARGARITA"
+     },
+     {
+        "name":"CT DESTINO",
+        "value":"NEUMACHILE"
+     }
+  ],
+  "groups":[
+     {
+        "category":"RETIRO EN TIENDA",
+        "name":"COLLECT"
+     }
+  ]
+}
